@@ -1,5 +1,6 @@
 require 'scope_do/named_acl'
 require 'scope_do/chained_scope'
+require 'scope_do/has_children'
 
 module ScopeDo
   VERSION = '0.1.1'
